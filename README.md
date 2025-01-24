@@ -40,5 +40,9 @@ Lien vers les differentes source de donnée :
 
 ![alt text](https://github.com/Gerard237/e2e-data-pipeline/blob/main/logo.drawio.png)
 
+## E. Resultat
 
+Nous avons un tableau de bord sur Tableau des doonéés : consommation totale annuelle et moyenne annuelle par adresse, commune, region
+
+![alt text](https://github.com/Gerard237/e2e-data-pipeline/blob/main/conso_electricite_gaz.png)
 
