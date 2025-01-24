@@ -38,7 +38,7 @@ Lien vers les differentes source de donnée :
 - Stockage des données traiter un fichier csv sur bucket s3.
 - Visualisation des données avec l'outil tableau : pour ressortir : consommation totale annuelle et moyenne annuelle par adresse, commune, secteur d'activité, region et niveau national.
 
-![alt text](https://raw.githubusercontent.com/Gerard237/e2e-data-pipeline/main/images/architecture.drawio.png)
+![alt text](https://github.com/Gerard237/e2e-data-pipeline/main/architecture.drawio.png)
 
 
 
